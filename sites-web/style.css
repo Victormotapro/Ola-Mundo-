@@ -1,0 +1,15 @@
+body{
+    width: 400px;
+    font-family: cursive black 20pt;
+    background: rgb(94, 92, 90);
+
+}
+h1{
+    font-weight: lighter;
+    
+
+}
+p{
+    padding: center;
+    text-align: center;
+}
