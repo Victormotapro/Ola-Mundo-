@@ -12,4 +12,5 @@ h1{
 p{
     padding: center;
     text-align: center;
+    flex-direction: column;
 }
